@@ -1,0 +1,18 @@
+.MovieSearch {
+  position: relative;
+  margin-bottom: 20px;
+
+  i {
+    font-size: 24px;
+    position: absolute;
+    top: 13px;
+    left: 15px;
+    color: #aaa;
+  }
+
+  input {
+    font-size: 24px;
+    padding: 10px 20px 10px 50px;
+    height: 54px;
+  }
+}
