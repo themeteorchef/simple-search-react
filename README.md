@@ -1,9 +1,15 @@
-##### Tutorial: Simple Search with React
+#### Tutorial: Simple Search with React
 
-In this tutorial, we'll learn how to implement a simple search feature with Meteor and React. We'll learn how to wire up a React-based interface to take in user input and pipe it to the server using Meteor's publications and subscriptions to get a real-time result back.
+undefined
 
-[Learn How to Build a Simple Search Feature](https://themeteorchef.com/tutorials/simple-search-with-react)  
+[Read this tutorial on The Meteor Chef](https://themeteorchef.com/tutorials/simple-search-with-react)  
 
-[Download the Source](https://github.com/themeteorchef/simple-search-react/archive/master.zip)
+[Download the source (.zip)](https://github.com/themeteorchef/simple-search-react/archive/master.zip)
 
-The code for this tutorial is licensed under the [MIT License](http://opensource.org/licenses/MIT).
+---
+
+**Need help with this?** [Sign up for a Mentorship appointment](https://themeteorchef.com/mentorship?readme=simple-search-with-react) and get 1-on-1 help.
+
+---
+
+_The code for this tutorial is licensed under the [MIT License](http://opensource.org/licenses/MIT)_.
